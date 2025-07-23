@@ -142,7 +142,7 @@ const ShinGuardCustomizer = () => {
             Personalizador de Canilleras Pro
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-4">
-            Crea diseños únicos con controles profesionales powered by Fabric.js
+            Pide las tuyas, Producto 100% nacional.
           </p>
           <div className="flex items-center justify-center gap-4 text-sm text-gray-500">
             <div className="flex items-center gap-2">
